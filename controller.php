@@ -1,11 +1,6 @@
 <?php
 defined('C5_EXECUTE') or die(_("Access Denied."));
 
-/*
-    Author: Adri Kodde
-    Date: 2013-08-13
-*/
-
 class D3HtmlOptimizerPackage extends Package {
 
 	protected $pkgHandle = 'd3_html_optimizer';
